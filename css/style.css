@@ -1,0 +1,5 @@
+html, body {
+  background-image: url("../images/background.gif");
+  color: white;
+  font-family: 'Acme', sans-serif;
+}
